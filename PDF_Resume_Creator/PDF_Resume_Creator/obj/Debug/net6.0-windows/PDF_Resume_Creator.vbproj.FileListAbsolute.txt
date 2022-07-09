@@ -1,0 +1,17 @@
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\bin\Debug\net6.0-windows\PDF_Resume_Creator.exe
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\bin\Debug\net6.0-windows\PDF_Resume_Creator.deps.json
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\bin\Debug\net6.0-windows\PDF_Resume_Creator.runtimeconfig.json
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\bin\Debug\net6.0-windows\PDF_Resume_Creator.dll
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\bin\Debug\net6.0-windows\PDF_Resume_Creator.pdb
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\PDF_Resume_Creator.vbproj.AssemblyReference.cache
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\PDF_Resume_Creator.Form1.resources
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\PDF_Resume_Creator.vbproj.GenerateResource.cache
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\PDF_Resume_Creator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\PDF_Resume_Creator.AssemblyInfoInputs.cache
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\PDF_Resume_Creator.AssemblyInfo.vb
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\PDF_Resume_Creator.vbproj.CoreCompileInputs.cache
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\PDF_Resume_Creator.dll
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\refint\PDF_Resume_Creator.dll
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\PDF_Resume_Creator.pdb
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\PDF_Resume_Creator.genruntimeconfig.cache
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\ref\PDF_Resume_Creator.dll

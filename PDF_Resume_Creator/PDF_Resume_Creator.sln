@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PDF_Resume_Creator", "PDF_Resume_Creator\PDF_Resume_Creator.vbproj", "{C8FA78BB-52DE-4916-BA3A-117471CC60AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8FA78BB-52DE-4916-BA3A-117471CC60AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FA78BB-52DE-4916-BA3A-117471CC60AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FA78BB-52DE-4916-BA3A-117471CC60AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FA78BB-52DE-4916-BA3A-117471CC60AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC6F74F3-ACA5-4624-898A-42011E67D750}
+	EndGlobalSection
+EndGlobal
