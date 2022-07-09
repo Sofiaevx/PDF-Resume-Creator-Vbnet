@@ -15,3 +15,8 @@ C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\ob
 C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\PDF_Resume_Creator.pdb
 C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\PDF_Resume_Creator.genruntimeconfig.cache
 C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\ref\PDF_Resume_Creator.dll
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\PDF_Resume_Creator.Resources.resources
+C:\Users\jvcat\srevx\PDF Resume Creator\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\net6.0-windows\PDF_Resume_Creator.vbproj.CopyComplete
